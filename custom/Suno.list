@@ -1,0 +1,14 @@
+# Suno
+# 区域: Intl（国外服务走代理）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: Suno 音乐生成（含 Clerk 认证与 CDN）
+
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,suno.ai
+DOMAIN,studio-api-prod.suno.com
+DOMAIN,api.suno.ai
+DOMAIN,auth.suno.com
+DOMAIN,clerk.suno.com
+DOMAIN,cdn1.suno.ai
+DOMAIN,cdn-o.suno.com
+DOMAIN,app.suno.ai

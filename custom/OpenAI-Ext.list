@@ -1,0 +1,19 @@
+# OpenAI-Ext
+# 区域: Intl（国外服务走代理）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: OpenAI 配套域名（CDN/SSO/遥测），主域名见上游 blackmatrix7/OpenAI.list
+
+DOMAIN,cdn.openaimerge.com
+DOMAIN,cdn.workos.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN,forwarder.workos.com
+DOMAIN,humb.apple.com
+DOMAIN,images.workoscdn.com
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN,rum.browser-intake-datadoghq.com
+DOMAIN,setup.workos.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN,workos.imgix.net
+DOMAIN,ct.sendgrid.net
+DOMAIN,ws.chatgpt.com

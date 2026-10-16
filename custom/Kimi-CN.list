@@ -1,0 +1,9 @@
+# Kimi-CN
+# 区域: CN（国内服务走直连）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: Kimi 月之暗面国内版（国内直连）
+
+DOMAIN,kimi.moonshot.cn
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN,platform.moonshot.cn
+DOMAIN,api.moonshot.cn

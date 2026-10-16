@@ -1,0 +1,16 @@
+# Cursor
+# 区域: Intl（国外服务走代理）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: Cursor IDE（含 todesktop 更新通道）
+
+DOMAIN,api2.cursor.sh
+DOMAIN,api3.cursor.sh
+DOMAIN,api4.cursor.sh
+DOMAIN,repo42.cursor.sh
+DOMAIN,us-asia.gcpp.cursor.sh
+DOMAIN,us-eu.gcpp.cursor.sh
+DOMAIN,us-only.gcpp.cursor.sh
+DOMAIN,marketplace.cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN,download.todesktop.com
+DOMAIN,api.cursor.com

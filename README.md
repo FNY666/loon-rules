@@ -33,3 +33,19 @@ https://raw.githubusercontent.com/FNY666/loon-rules/main/<upstream>/<File>.list
 
 注意：本目录文件为第三方规则的原样镜像，版权归原作者所有，
 仅作可用性备份用途。
+
+## custom/ —— 自主调研的 AI 规则（非上游镜像）
+
+`custom/` 下的 42 个 `.list` 文件来自 2026-10-16 的全网 AI 域名调研
+（社区 / 团队仓库 / 网站论坛 / 群聊），共 200 个域名，覆盖 40 个 AI 服务，
+是对上游 blackmatrix7 等规则的补充，不是镜像。
+
+- 文件命名：`custom/<服务>.list`（如 `custom/Grok.list`、`custom/DeepSeek.list`）
+- 区域标记：`Intl`（国外服务，走代理）/ `CN`（国内服务，走直连），见各文件头注释
+- `custom/MANIFEST.tsv`：文件名、服务、区域、域名数的对照表
+
+使用示例（Loon Remote Rule）：
+```
+https://raw.githubusercontent.com/FNY666/loon-rules/main/custom/Grok.list, policy=🤖 AI, tag=Grok, enabled=true
+https://raw.githubusercontent.com/FNY666/loon-rules/main/custom/DeepSeek.list, policy=DIRECT, tag=DeepSeek, enabled=true
+```

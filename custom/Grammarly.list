@@ -1,0 +1,12 @@
+# Grammarly
+# 区域: Intl（国外服务走代理）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: Grammarly（含浏览器插件指标域名）
+
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,www.grammarly.com
+DOMAIN,app.grammarly.com
+DOMAIN,auth.grammarly.com
+DOMAIN,cdn.grammarly.com
+DOMAIN,config.extension.grammarly.com
+DOMAIN,extension.femetrics.grammarly.io

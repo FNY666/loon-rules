@@ -1,0 +1,21 @@
+# Grok
+# 区域: Intl（国外服务走代理）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: xAI Grok 全家桶
+
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN,api.x.ai
+DOMAIN,us.api.x.ai
+DOMAIN,accounts.x.ai
+DOMAIN,auth.x.ai
+DOMAIN,console.x.ai
+DOMAIN,docs.x.ai
+DOMAIN,status.x.ai
+DOMAIN,data.x.ai
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,grok-sandbox.com
+DOMAIN-SUFFIX,groktpcontent.com
+DOMAIN-SUFFIX,groksupport.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN,cli-chat-proxy.grok.com

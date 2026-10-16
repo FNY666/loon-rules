@@ -1,0 +1,8 @@
+# Doubao
+# 区域: CN（国内服务走直连）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: 豆包（国内直连，含火山方舟）
+
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,www.doubao.com
+DOMAIN,ark.cn-beijing.volces.com

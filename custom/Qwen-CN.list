@@ -1,0 +1,11 @@
+# Qwen-CN
+# 区域: CN（国内服务走直连）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: 通义千问国内版（国内直连，含百炼平台）
+
+DOMAIN,tongyi.aliyun.com
+DOMAIN-SUFFIX,www.tongyi.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN,qianwen.aliyun.com
+DOMAIN,dashscope.aliyuncs.com
+DOMAIN,bailian.console.aliyun.com

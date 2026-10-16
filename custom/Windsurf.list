@@ -1,0 +1,10 @@
+# Windsurf
+# 区域: Intl（国外服务走代理）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: Windsurf / Codeium（DOMAIN-SUFFIX 通配覆盖）
+
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,api.codeium.com
+DOMAIN-SUFFIX,update.windsurf.com

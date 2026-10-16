@@ -1,0 +1,10 @@
+# HuggingFace
+# 区域: Intl（国外服务走代理）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: HuggingFace（含推理 API 与 LFS CDN）
+
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN,api-inference.huggingface.co
+DOMAIN,cdn-lfs.huggingface.co
+DOMAIN,xethub.hf.co

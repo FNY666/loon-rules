@@ -1,0 +1,10 @@
+# Runway
+# 区域: Intl（国外服务走代理）
+# 来源: 自主调研 2026-10-16（社区/仓库/论坛/群聊全网搜集，非上游镜像）
+# 备注: Runway ML
+
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN,app.runwayml.com
+DOMAIN,dev.runwayml.com
+DOMAIN,api.dev.runwayml.com
+DOMAIN,docs.dev.runwayml.com
