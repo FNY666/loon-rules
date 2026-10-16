@@ -1,0 +1,9 @@
+# NAME: Hyperliquid
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,hyperliquid.xyz
+DOMAIN,app.hyperliquid.xyz
+DOMAIN,api.hyperliquid.xyz
+DOMAIN,api.hyperliquid-testnet.xyz

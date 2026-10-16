@@ -1,0 +1,16 @@
+# NAME: AliExpress
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,aliexpress.ru
+DOMAIN-SUFFIX,aliexpress.us
+DOMAIN-SUFFIX,aliexpress.co.kr
+DOMAIN,portals.aliexpress.com
+DOMAIN,aliexpress-media.com
+DOMAIN,alicdn.com
+DOMAIN,ae01.alicdn.com
+DOMAIN,ae02.alicdn.com
+DOMAIN,ae03.alicdn.com
+DOMAIN,ae04.alicdn.com

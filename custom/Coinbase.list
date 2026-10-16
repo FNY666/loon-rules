@@ -1,0 +1,14 @@
+# NAME: Coinbase
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN,api.coinbase.com
+DOMAIN,api.exchange.coinbase.com
+DOMAIN,ws-feed.exchange.coinbase.com
+DOMAIN,exchange.coinbase.com
+DOMAIN,accounts.coinbase.com
+DOMAIN,api.cdp.coinbase.com
+DOMAIN,assets.coinbase.com
+DOMAIN,developer.coinbase.com

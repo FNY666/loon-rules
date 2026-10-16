@@ -1,0 +1,13 @@
+# NAME: AWS
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN,aws.amazon.com
+DOMAIN,console.aws.amazon.com
+DOMAIN,signin.aws.amazon.com
+DOMAIN,docs.aws.amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,api.aws
+DOMAIN,console.api.aws
+DOMAIN,console.awsstatic.com

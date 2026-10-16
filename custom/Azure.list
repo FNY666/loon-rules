@@ -1,0 +1,13 @@
+# NAME: Azure
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN,login.microsoft.com
+DOMAIN,login.microsoftonline.com
+DOMAIN,login.live.com
+DOMAIN,portal.azure.com
+DOMAIN,management.azure.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,azure.net

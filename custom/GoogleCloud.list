@@ -1,0 +1,16 @@
+# NAME: GoogleCloud
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN,console.cloud.google.com
+DOMAIN,cloud.google.com
+DOMAIN,accounts.google.com
+DOMAIN,apis.google.com
+DOMAIN,www.gstatic.com
+DOMAIN,ssl.gstatic.com
+DOMAIN,fonts.gstatic.com
+DOMAIN,reauth.cloud.google.com
+DOMAIN,csp.withgoogle.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,clients6.google.com

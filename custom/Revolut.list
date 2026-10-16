@@ -1,0 +1,13 @@
+# NAME: Revolut
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,revolut.com
+DOMAIN,api.revolut.com
+DOMAIN,b2b.revolut.com
+DOMAIN,sandbox-b2b.revolut.com
+DOMAIN,merchant.revolut.com
+DOMAIN,revx.revolut.com
+DOMAIN,help.revolut.com
+DOMAIN,developer.revolut.com

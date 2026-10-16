@@ -1,0 +1,8 @@
+# NAME: Coursera
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,coursera.org
+DOMAIN,helix.coursera.org
+DOMAIN,api.coursera.org

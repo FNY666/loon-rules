@@ -1,0 +1,8 @@
+# NAME: Udemy
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,udemy.com
+DOMAIN,udemycdn.com
+DOMAIN,udemy-images.fastly.com

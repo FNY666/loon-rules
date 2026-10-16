@@ -1,0 +1,11 @@
+# NAME: Wise
+# REGION: Intl
+# SOURCE: custom research 2026-10-16
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,wise.com
+DOMAIN,api.wise.com
+DOMAIN,api.transferwise.com
+DOMAIN,api-mtls.transferwise.com
+DOMAIN,api.wise-sandbox.com
+DOMAIN,docs.wise.com
