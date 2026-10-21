@@ -1,0 +1,7 @@
+# NAME: Hunyuan
+# REGION: CN
+# SOURCE: custom research 2026-10-21
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,aistudio.tencent.com

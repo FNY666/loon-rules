@@ -37,7 +37,7 @@ custom/Ernie.list	Ernie	CN	5
 custom/Xinghuo.list	Xinghuo	CN	6
 custom/MiniMax-CN.list	MiniMax-CN	CN	3
 custom/MiniMax-Intl.list	MiniMax-Intl	Intl	5
-custom/Zhipu.list	Zhipu	CN	6
+custom/Zhipu.list	Zhipu	CN	7
 custom/Baichuan.list	Baichuan	CN	5
 custom/Lingyi-CN.list	Lingyi-CN	CN	2
 custom/Lingyi-Intl.list	Lingyi-Intl	Intl	3
@@ -101,3 +101,10 @@ custom/Supabase.list	Supabase	Intl	2
 custom/Synthesia.list	Synthesia	Intl	2
 custom/Udio.list	Udio	Intl	2
 custom/V0.list	V0	Intl	2
+custom/CozeCN.list	CozeCN	CN	1
+custom/Hunyuan.list	Hunyuan	CN	2
+custom/Manus.list	Manus	Intl	1
+custom/Metaso.list	Metaso	CN	1
+custom/NamiAISearch.list	NamiAISearch	CN	1
+custom/StepFun.list	StepFun	CN	1
+custom/Yuanbao.list	Yuanbao	CN	1
