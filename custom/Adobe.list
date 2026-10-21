@@ -1,0 +1,7 @@
+# NAME: Adobe
+# REGION: Intl
+# SOURCE: custom research 2026-10-22
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
