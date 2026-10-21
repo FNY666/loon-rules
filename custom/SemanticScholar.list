@@ -1,0 +1,7 @@
+# NAME: SemanticScholar
+# REGION: Intl
+# SOURCE: custom research 2026-10-21
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,semanticscholar.org
+DOMAIN,api.semanticscholar.org

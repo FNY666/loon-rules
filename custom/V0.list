@@ -1,0 +1,7 @@
+# NAME: V0
+# REGION: Intl
+# SOURCE: custom research 2026-10-21
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,v0.dev
+DOMAIN-SUFFIX,v0.app

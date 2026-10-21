@@ -1,0 +1,9 @@
+# NAME: Leonardo
+# REGION: Intl
+# SOURCE: custom research 2026-10-21
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN,app.leonardo.ai
+DOMAIN,api.leonardo.ai
+DOMAIN,cdn.leonardo.ai

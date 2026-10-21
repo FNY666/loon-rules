@@ -1,0 +1,8 @@
+# NAME: Descript
+# REGION: Intl
+# SOURCE: custom research 2026-10-21
+# REPO: https://github.com/FNY666/loon-rules
+
+DOMAIN-SUFFIX,descript.com
+DOMAIN,web.descript.com
+DOMAIN,api.descript.com
